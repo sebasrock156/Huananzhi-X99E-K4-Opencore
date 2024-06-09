@@ -35,7 +35,6 @@ Hardware | Model
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz (Officially supported until MacOS Ventura)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC897 (in-build)
-![wlan](https://i.imgur.com/vt1Ltn0.png) | Ralink RT3070 (External USB, Supported until MacOS Catalina)
 Ethernet | Realtek RTL8168H
 ![ddr4](https://i.imgur.com/2oda3vY.png) | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 240GB (TLC PS3111 Controller, testing drive)
