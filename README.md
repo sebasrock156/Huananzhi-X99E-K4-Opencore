@@ -11,7 +11,7 @@ I'm bringing another OpenCore EFI, now for this 2023 chinese low-cost motherboar
 
 [![MacOS Monterey](https://i.imgur.com/xcZ2v8a.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/tree/Monterey)
 
-**Status:** Testing (To do: Fix audio recognize) (test with [Release EFI](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/releases) )🖥
+**Status:** Done ✅ (test with [Release EFI](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/releases) )🖥
 
 **More info of MacOS Ventura:**
 
