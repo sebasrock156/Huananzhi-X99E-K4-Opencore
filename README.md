@@ -4,6 +4,11 @@
 [![Ventura](https://img.shields.io/badge/VenturaHackintosh-in_development-orange.svg)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/tree/Ventura)
 [![Sonoma](https://img.shields.io/badge/SonomaHackintosh-early_development-red.svg)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/tree/Sonoma)
 
+---
+> ⚠ **ADVICE** ⚠: If MacOS (15) Sequoia have a early Vanilla Image release soon, maybe I think in bring it too.
+> MacOS BigSur, Catalina and Mojave (maybe, just maybe) are deprecated for now, but, with Monterey EFI could may be work to boot into there.
+---
+
 I'm bringing another OpenCore EFI, now for this 2023 chinese low-cost motherboard, for more information, click on "More info of **MacOS Version** below:
 
 
