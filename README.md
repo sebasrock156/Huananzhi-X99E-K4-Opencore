@@ -30,6 +30,12 @@ I'm bringing another OpenCore EFI, now for this 2023 chinese low-cost motherboar
 
 **Status:** In development (test with [Release EFI](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/releases) )🖥
 
+**More info of MacOS Sequoia:**
+
+[![MacOS Sequoia](https://i.imgur.com/EzZuom8.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/tree/Sequoia-beta)
+
+**Status:** In plaining 👷‍♂️
+
 
 ---
 
