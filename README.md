@@ -1,7 +1,7 @@
 # Huananzhi X99E K4 Opencore (Monterey - Sonoma)
 
 [![Monterey](https://img.shields.io/badge/MontereyHackintosh-available_here-blue.svg)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/tree/Monterey)
-[![Ventura](https://img.shields.io/badge/VenturaHackintosh-in_development-orange.svg)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/tree/Ventura)
+[![Ventura](https://img.shields.io/badge/VenturaHackintosh-available_here-blue.svg)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/tree/Ventura)
 [![Sonoma](https://img.shields.io/badge/SonomaHackintosh-early_development-red.svg)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore/tree/Sonoma)
 
 ---
