@@ -2,7 +2,7 @@
 
 [OpenCore Legacy Patcher]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
-![Screenshot](soon)
+![Screenshot](https://i.imgur.com/ffR1lDH.png)
 
 
 Hardware | Model
@@ -22,6 +22,25 @@ Ethernet | Realtek RTL8168H
 ### Works:
 ---
 <details>
+
+- Installer Boot ✅ (Installation on SATA: ~30/35 minutes | Installation on Nvme: ~20/25)
+
+- System Boot ✅
+
+- USB Ports (All ports are 2.0)✅
+
+- Screen ✅ (1336x768, 1080x1920)
+
+- Audio Card ✅ (Inputs and Outputs)
+
+- Ethernet ✅
+
+- PCI Express Ports (M.2 Port included, Nvmefix kext it's added)✅
+
+- Sleep Mode ✅
+
+- Front COM Port (It's detected) ✅
+ 
 </details>
 
 
