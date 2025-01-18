@@ -9,6 +9,8 @@
 > MacOS BigSur, Catalina and Mojave (maybe, just maybe) are deprecated for now, but, with Monterey EFI could may be work to boot into there.
 ---
 
+![Motherboard](https://i.imgur.com/FtSCjxq.png)
+
 I'm bringing another OpenCore EFI, now for this 2023 chinese low-cost motherboard, for more information, click on "More info of **MacOS Version** below:
 
 
