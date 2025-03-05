@@ -43,7 +43,7 @@ I'm bringing another OpenCore EFI, now for this 2023 chinese low-cost motherboar
 
 Hardware | Model
 --- |:--:
-![motherboard](https://i.imgur.com/rcyOyso.png) | Huananzhi X99E-K4 (Clarkdale Southbridge)
+![motherboard](https://i.imgur.com/rcyOyso.png) | Huananzhi X99E-K4 (Clarkdale Southbridge but modified for Haswell/Broadwell)
 ![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.01 (by American Megatrends (AMI)/Modified by Huananzhi)
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz (Officially supported until MacOS Ventura)
